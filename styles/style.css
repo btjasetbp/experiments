@@ -2,7 +2,7 @@ h1, h2, h3, h4 {
     font-size: 30px;
     margin: 10px;
 }
-h1,h2, h3, h4 {color: darkgoldenrod
+h1, h2, h3, h4 {color: darkgoldenrod
 /* color: darkgoldenrod */
 
 }
@@ -12,8 +12,7 @@ h1,h2, h3, h4 {color: darkgoldenrod
 
 .uppercase{
     text-transform: uppercase;
-    color: hotpink;
-    background-color: black;
+    color: green;
 }
 
 #the-one{
